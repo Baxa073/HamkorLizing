@@ -21,7 +21,7 @@ Ushbu loyiha **[Hamkor Lizing](https://hamkor-lizing.uz)** kompaniyasining mobil
 
 1. Loyiha kodini GitHub'dan yuklab oling:
    ```bash
-   git clone https://github.com/username/hamkor-lizing.git
+   git clone https://github.com/baxa073/HamkorLizing.git
 
 
 <img width="1272" alt="Screenshot 2024-09-18 103135" src="https://github.com/user-attachments/assets/7dee7d92-8fb4-456c-b49b-e5187b88d5b9">
